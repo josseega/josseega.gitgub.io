@@ -30,7 +30,7 @@ twitter_username: josseega
 github_username:  josseega
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
